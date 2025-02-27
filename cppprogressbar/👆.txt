@@ -1,0 +1,1632 @@
+Canadian Grain Commission
+Official Grain Grading Guide 18-1 August 1, 2023
+Lentils
+18. Lentils
+Classes, types and varieties .......................................................................................18-3
+Classes ....................................................................................................................18-3
+Types .......................................................................................................................18-3
+Varieties...................................................................................................................18-3
+Determination of dockage...........................................................................................18-4
+Definitions ................................................................................................................18-4
+Determination of cleaning procedures (Lentils, other than Red only) .....................18-4
+Dockage not reported ..............................................................................................18-5
+Normal cleaning procedures ...................................................................................18-5
+Composition of dockage..........................................................................................18-6
+Commercially clean (CCLN)....................................................................................18-6
+Cleaning for grade improvement .............................................................................18-7
+Determination of size (sizing).....................................................................................18-8
+Optional analysis .....................................................................................................18-9
+Grading .......................................................................................................................18-10
+Important definitions ..............................................................................................18-10
+Net weight of sample .......................................................................... 18-10
+Hazardous substances in samples ...................................................... 18-10
+Processed sample .............................................................................. 18-10
+Rounding rules ................................................................................... 18-10
+Non-registered varieties ..................................................................... 18-10
+Standard prints................................................................................... 18-10
+Representative portions for grading ......................................................................18-11
+Grading factors ..........................................................................................................18-12
+Adhered Soil (ADHS).......................................................................... 18-12
+Ascochyta ..................................................................................... 18-12
+Bleached (BLCH) ............................................................................... 18-12
+Broken ............................................................................................... 18-12
+Colour (CLR)...................................................................................... 18-12
+Contaminated grain ............................................................................ 18-13
+Contrasting classes (CON CL) ............................................................ 18-13
+Contrasting colours (CON CLR) .......................................................... 18-13
+Copper (COP) .................................................................................... 18-14
+Damage (DMG) .................................................................................. 18-14
+Earth pellets (EP) ............................................................................... 18-14
+Ergot (ERG) ....................................................................................... 18-14
+Excreta (EXCR).................................................................................. 18-14
+Extraneous material ........................................................................... 18-15
+Fertilizer pellets (FERT PLTS) ............................................................ 18-15
+Fireburnt (FBNT) ................................................................................ 18-15
+Foreign material (FM) ......................................................................... 18-15
+Frost damage (FR) ........................................................................ 18-15
+Heated (HTD)..................................................................................... 18-16
+Insect parts (I PARTS)........................................................................ 18-16
+Odour (ODOR) ................................................................................... 18-16
+Other damage (ODMG)....................................................................... 18-16
+Peeled, split and broken (PLDSPLTBKN) ............................................ 18-17
+Canadian Grain Commission
+Official Grain Grading Guide 18-2 August 1, 2023
+Lentils
+Rime (RIME) ...................................................................................... 18-17
+Sclerotinia sclerotiorum (SCL) ............................................................ 18-17
+Split ................................................................................................... 18-17
+Sprouted (SPTD)................................................................................ 18-17
+Stained (STND) ............................................................................. 18-17
+Stones (STNS) ................................................................................... 18-18
+Treated seed and other chemical substances ...................................... 18-20
+Variety (VAR) ..................................................................................... 18-20
+Wrinkled (WRKL) ........................................................................... 18-21
+Primary and export grade determinants tables ......................................................18-22
+Lentils, Canada, other than Red (CAN).................................................................18-22
+Lentils, Canada Red (CAN)...................................................................................18-23
+Export shipments.......................................................................................................18-24
+Commercially clean (CCLN)..................................................................................18-24
+Not commercially clean (NCC)..............................................................................18-24
+Grading..................................................................................................................18-24
+Canadian Grain Commission
+Official Grain Grading Guide 18-3 August 1, 2023
+Lentils
+Classes, types and varieties
+Classes
+Lentils are designated into two classes: Lentils, Red and Lentils, other than Red. The
+method of determining the class of a lentil is by cotyledon colour. Inspectors may need
+to visually inspect cotyledons to determine the class.
+Types
+Lentils may be categorized by type. A type may have a specific seed coat colour such as
+black or tan, or a specific characteristic, such as speckled green. The cotyledon color may
+be red, yellow or green.
+Varieties
+Lentil varieties may have a wide range of seed coat colours from green, red, speckled
+green, black and tan. The cotyledon color may be red, yellow or green.
+There are a number of combinations of seed coat colours and cotyledon colours. This
+includes a red lentil variety with a green seed coat.
+Canadian Grain Commission
+Official Grain Grading Guide 18-4 August 1, 2023
+Lentils
+Determination of dockage
+Definitions
+Dockage is not assessed on lentil samples that meet the commercially clean specifications
+set out in the Lentil Export Shipments section. All samples must be analyzed to
+determine if they meet commercial cleanliness standards prior to dockage being assessed.
+The analysis of samples which are clearly not commercially clean may consist of a visual
+assessment. For example, if there is no doubt that a sample contains more than 0.2% of
+foreign material then dockage will be assessed using the procedures defined under
+Determination of Dockage. Where there is any doubt regarding whether the sample is
+commercially clean the sample must be analyzed.
+Dockage is assessed and recorded to the nearest 0.1%.
+Dockage is defined under the Canada Grain Act as “any material intermixed with a parcel
+of grain, other than kernels of grain of a standard of quality fixed by or under this Act for
+a grade of that grain, that must and can be separated from the parcel of grain before that
+grade can be assigned to the grain”. Dockage is removed by following the cleaning
+procedures described in this section of the guide.
+The sample as it arrives is referred to as the uncleaned or dirty sample. Its weight is the
+gross weight of the sample. Dockage is assessed on the gross weight of the sample.
+Dockage is assessed in three stages.
+1. Follow Determination of cleaning procedures using the No.14 round-hole hand
+sieve.
+2. Follow Normal cleaning procedures, using the Carter dockage tester.
+3. Follow procedures for Cleaning for grade improvement. This cleaning can be done at
+any time after the cleaning assessment has been completed.
+Determination of cleaning procedures (Lentils, other than Red only)
+▲ Important: Wear gloves and a mask to handle any samples that you suspect may
+contain hazardous substances.
+Note: The determination of cleaning procedures is only performed on samples of Lentils,
+other than Red. For samples of red lentils, proceed directly to Normal cleaning
+procedures.
+1. Using a Boerner-type divider, divide from the uncleaned sample, a representative
+portion of approximately 250 g.
+2. Sieve the representative portion over the No.14 round-hole hand sieve.
+When using hand sieves, move the sieve from left to right 20 times, using a sifting
+motion. One time is one complete motion from the centre to one side, to the other
+side, and back to the centre. The total distance from left to right is 20 cm, or about
+eight inches.
+Canadian Grain Commission
+Official Grain Grading Guide 18-5 August 1, 2023
+Lentils
+3. Determine the portion remaining on top of the No.14 round-hole sieve.
+Note: When results may be affected by excessive dockage material, reduce the
+material through sieving or handpicking without removing whole lentils.
+If . . . The sample will be cleaned as . . .
+10% or more remains on top of the No. 14
+round-hole sieve
+Large
+Less than 10% remains on top of the No. 14
+round-hole sieve
+Small
+Dockage not reported
+▲ Important: Dockage is not reported for
+ Lentils, Sample Canada Account Fireburnt
+ Lentils, Sample Salvage
+ Lentils, Sample Condemned
+ Unofficial samples declared as processed
+Normal cleaning procedures
+1. Set up the Carter dockage tester as follows:
+Note: Select the riddle that will achieve the maximum removal of large dockage
+material with the minimum removal or lodging of lentils.
+Lentils, Other than Red
+Setting Small Large
+Feed control # 5 # 6
+Air control # 7 # 7
+Riddle No.1 or No.25 No.25 or No.6
+Top sieve No. 9 round-hole No. 12 round-hole
+Centre sieve blank tray blank tray
+Bottom sieve none none
+Sieve cleaner control Off Off
+Lentils, Red
+Feed control # 5
+Air control # 7
+Riddle No.1 or No.25
+Top sieve No. 9 round-hole
+Centre sieve blank tray
+Bottom sieve none
+Sieve cleaner control Off
+Canadian Grain Commission
+Official Grain Grading Guide 18-6 August 1, 2023
+Lentils
+2. Using a Boerner-type divider, divide the uncleaned sample to obtain a representative
+portion.
+ Official samples shall be at least 1 kg.
+ Unofficial samples shall be at least 1 kg.
+3. Turn on the Carter dockage tester.
+4. Pour the sample into the hopper.
+5. Turn off the dockage tester after sample passes through.
+6. Lightly snap the retainer rod of the aspiration pan to loosen material gathered on the
+air screen.
+7. Remove the aspiration pan.
+8. Determine dockage using the list under Composition of dockage.
+Composition of dockage
+ Material other than whole lentils that remain on top of the riddle—whole sound
+lentils are returned to the sample
+ Material which passes through the selected round-hole sieve
+ Material removed by aspiration
+ All grasshoppers, other insects and insect parts handpicked from the sample
+ Material removed by special cleaning for grade improvement procedures if the grade
+can be improved
+Commercially clean (CCLN)
+Samples exiting primary elevators are considered commercially clean when they contain
+0.2% or less by weight of dockage material. No dockage is reported.
+Canadian Grain Commission
+Official Grain Grading Guide 18-7 August 1, 2023
+Lentils
+Cleaning for grade improvement
+If the grade of a sample can be improved by additional cleaning to remove foreign
+material, perform the cleaning and add the additional material to dockage. Cleaning for
+grade improvement can be done at any time after the cleaning assessment has been
+completed, including on export.
+1. After the cleaning assessment has been completed, sieve the sample by hand using
+the appropriate hand sieve.
+▲ Important: When you use a hand sieve, move the sieve from left to right
+30 times, using a sifting motion. One time is one complete motion from the
+centre, to one side, to the other side, and back to the centre. The total distance
+from left to right is 20 cm.
+2. Weigh the additional dockage and add it to the original dockage.
+Size of lentil Equipment Effect on composition of dockage
+Small No. 9x9 wire hand sieve
+No. 10 round-hole hand sieve
+Material removed by the sieve is added to
+dockage. Not more than 5% of whole sound
+lentils may be removed for each single grade
+improvement.
+Large No. 9x9 wire hand sieve Material removed by the sieve is added to
+dockage. Not more than 5% of whole sound
+lentils may be removed for each single grade
+improvement.
+Canadian Grain Commission
+Official Grain Grading Guide 18-8 August 1, 2023
+Lentils
+Determination of size (sizing)
+On written request, if size is determined to be large or small, then size becomes part of
+the grade name. If a sample does not meet the definition for large or small, it is graded
+without reference to size.
+▲ Important: Wear gloves and a mask to handle any samples that you suspect may
+contain hazardous substances.
+1. Set up the Carter dockage tester as follows:
+Feed control #6
+Air control Off
+Riddle None
+Top sieve No. 15 round-hole
+Centre sieve No. 12 round-hole
+Bottom sieve Blank tray
+Sieve cleaner control Off
+2. Using a Boerner-type divider, divide the cleaned sample to obtain a representative
+portion of 250 g.
+3. Turn on the Carter dockage tester.
+4. Pour the sample into the hopper.
+5. After the sample has passed through the machine, turn off the dockage tester.
+6. Weigh separately. The percentage by weight determines the size of the lentils in the
+sample.
+If . . . Then the size is . . .
+97% or more of the sample
+remains on top of a
+No. 15 round-hole sieve
+Large, for example,
+Lentils, No. 1 Canada Large
+80% or more passes through
+the No. 12 round-hole sieve
+Small, for example,
+Lentils, No. 1 Canada Small
+otherwise no size indicated
+Lentils, No. 1 Canada
+Canadian Grain Commission
+Official Grain Grading Guide 18-9 August 1, 2023
+Lentils
+Optional analysis
+Where a shipper requests special cleaning of a carlot of grain at a terminal elevator, and
+the elevator manager agrees, dockage material will be analyzed for the presence of grain.
+The percentage and grade of any grain contained in the dockage will be reported.
+Procedures
+1. Analyze the official sample.
+2. Record the following on inspection records:
+ The percentage by gross weight to the nearest 0.1% and the grade of lentils.
+ The percentage by gross weight to the nearest 0.1% and the grade of grain
+separable from dockage.
+ The percentage of dockage.
+Example
+95.0% Lentils, No. 1 Canada
+4.0% Domestic Mustard Seed, No. 1 Canada Oriental
+1.0% dockage
+Canadian Grain Commission
+Official Grain Grading Guide 18-10 August 1, 2023
+Lentils
+Grading
+Important definitions
+Net weight of sample
+The sample after cleaning and removal of dockage is referred to as the cleaned sample.
+Its weight is the net weight of the sample. Percentages by weight for grading refer to
+percentages of the cleaned sample, or the net weight.
+Hazardous substances in samples
+Wear gloves and a mask to handle any samples that you suspect may contain hazardous
+substances. Hazardous substances are defined in section 1 of the Canada Grain
+Regulations as “any pesticide, desiccant or inoculant”.
+Processed sample
+An unofficial sample of grain declared to be conditioned or cleaned to meet end user
+specifications, and whereas, the determination of dockage and/or determination of
+commercially clean are not performed or reported.
+Rounding rules
+Rounding rules are outlined in schedule 3 of the Canada Grain Regulations. When
+official inspection results are expressed numerically, they should be expressed to the
+same decimal precision as the applicable tolerance in the primary and export grade
+determinants table.
+Non-registered varieties
+Where grain of any kind is not a registered variety under the Seeds Act, no person shall,
+except with the permission of the Canadian Grain Commission, assign a statutory grade
+to that grain which is higher than the lowest grade established by regulation for that kind
+of grain.
+Standard prints
+Standard prints are grain photographs prepared by the Canadian Grain Commission that
+are used for the assessment of visual grading factors as defined in the Standard of quality.
+See Chapter 29 of this guide, Active Grain Standards List.
+Canadian Grain Commission
+Official Grain Grading Guide 18-11 August 1, 2023
+Lentils
+Representative portions for grading
+All grading is done on representative portions divided down from the clean sample, using
+a Boerner-type divider.
+The optimum representative portion is the representative sample size within the minimum
+and maximum range used to obtain the most accurate result when assessing an objective
+factor. It is determined by taking into consideration the tolerance and concentration of the
+objective factor being assessed.
+Representative portion of lentils for grading (in grams)
+Grading factor
+Sample portion size range
+Minimum Maximum
+Ascochyta 25 g 100 g
+Contrasting colours 50 g 100 g
+Copper 25 g 50 g
+Damage 25 g 100 g
+Ergot 500 g working sample
+Excreta working sample working sample
+Fertilizer pellets working sample working sample
+Fireburnt working sample working sample
+Foreign material 50 g 250 g
+Heated 50 g 100 g
+Insect parts working sample working sample
+Odour working sample working sample
+Peeled, split and broken 25 g 100 g
+Sclerotinia sclerotiorum 250 g working sample
+Stained 25 g 100 g
+Stones working sample working sample
+Total bleached including copper 25 g 50 g
+Treated seed working sample working sample
+Wrinkled 25 g 50 g
+Canadian Grain Commission
+Official Grain Grading Guide 18-12 August 1, 2023
+Lentils
+Grading factors
+Images available on web version
+Adhered Soil (ADHS)
+See Colour.
+Ascochyta
+Ascochyta is a fungal disease that attacks the lentil plant and seed. Any degree of white
+fungal growth on the seed is considered damaged. See Stained and Damage
+Bleached (BLCH)
+Bleached seeds have a whitened seed coat that is distinctly faded from the natural red
+colour of sound lentils. The discoloration must affect the entire seed coat. Lentils having
+a lighter pink shade that are contrasting with the overall sample are considered sound.
+The red lentil colour guide may be used to assist in the determination of bleached seeds.
+Industry members may contact the Canadian Grain Commission at 1-800-853-6705 or
+QAStandards-NormesAQ@grainscanada.gc.ca to request this guide.
+Broken
+See Peeled, split and broken.
+Colour (CLR)
+Lentils, other than Red
+Colour is evaluated after the removal of stained and damaged lentils, using approved
+lentil standard prints.
+Description used
+in grade determinants table Characteristics
+Good natural colour Lentils that are sound, well matured and have a good natural
+colour.
+Reasonably good natural colour Lentils with light amounts of adhered soil or lightly discoloured
+from storage or other natural causes.
+Fair colour Lentils with moderate amounts of adhered soil, or otherwise
+moderately discoloured from natural causes.
+Poor colour Lentils that do not meet the definition of fair colour, but are
+without severely adhered soil or are severely discoloured
+(dark brown).
+The term sunburned or oxidation is used to describe the normal discolouration of the seed
+coat which occurs during storage. The colour may vary from light tan to brown or very
+dark brown, depending on the duration and conditions of storage.
+Canadian Grain Commission
+Official Grain Grading Guide 18-13 August 1, 2023
+Lentils
+Lentils, Red
+Colour is evaluated by using the following guidelines.
+Description used
+in grade determinant table
+Characteristics
+Copper
+%
+Total
+bleached
+including
+copper
+% Adhered Soil
+Good natural colour 1 3 Light amounts of adhered soil
+Reasonably good natural colour 3 10 Moderate amounts of adhered soil
+Fair colour 10 25 Heavy amounts of adhered soil
+Poor colour Lentils that do not meet the definition of fair colour.
+Contaminated grain
+▲ Important: Wear gloves and a mask to handle any sample that is suspected of
+containing contaminated grain.
+Grain is contaminated for the purposes of the Canada Grain Act if the grain contains any
+substance in sufficient quantity that the grain is either
+(a) adulterated for the purposes of the Food and Drugs Act; or
+(b) contaminated within the meaning of the regulations made under section 51 of
+the Safe Foods for Canadians Act.
+Procedures
+If a sample is suspected of being contaminated, the sample should be submitted to the
+Canadian Grain Commission. Determination as to whether grain is contaminated will be
+made by the Grain Research Laboratory in consultation with the Chief Grain Inspector
+for Canada. Samples deemed to be contaminated are graded: Lentils, Sample Condemned.
+Contrasting classes (CON CL)
+Lentils are designated into two classes, Lentils, Red and Lentils, other than Red. The
+method of determining the class of lentils is by cotyledon colour. Inspectors may need to
+visually inspect cotyledons to determine the class.
+Contrasting classes are assessed in Lentils, Red only. For Lentils, other than Red, see
+Contrasting colours.
+Contrasting colours (CON CLR)
+Contrasting colours refers to a difference in cotyledon colour and/or significantly
+different seed coat colour. Examples include:
+ Cotyledons: red cotyledons contrast with yellow cotyledons
+ Seed coats: dark-green speckled lentils contrast with green lentils
+Canadian Grain Commission
+Official Grain Grading Guide 18-14 August 1, 2023
+Lentils
+Copper (COP)
+Copper seeds have a rust color covering both sides of seed and the entire seed coat. The
+rust colour is in distinct contrast with the natural red colour of sound lentils.
+The red lentil colour guide may be used to assist in the determination of copper seeds.
+Industry members may contact the Canadian Grain Commission at 1-800-853-6705 or
+QAStandards-NormesAQ@grainscanada.gc.ca to request this guide.
+Damage (DMG)
+Damaged lentils may be peeled, split, broken, sprouted, distinctly green, frost damaged,
+ascochyta damaged, distinctly deteriorated or discoloured by weather or disease, insect
+damaged, heat damaged or otherwise damaged in a way which materially affects quality.
+▲ Important: Kernels that are deformed are considered sound unless there is another
+reason for the damage beyond the deformity.
+Note: For green cotyledon varieties, do not assess distinctly green cotyledons as damage.
+For example, Queen Green variety
+Procedure
+1. Handpick suspect damaged lentils.
+2. Lentils showing some indication of possible internal damage are to be cut for
+confirmation of damage.
+Earth pellets (EP)
+ Hard earth pellets are pellets that do not crumble under light pressure.
+See Stones.
+ Soft earth pellets are pellets that crumble under light pressure.
+See Foreign material.
+Ergot (ERG)
+Ergot is a plant disease producing elongated fungus bodies with a purplish-black exterior,
+a purplish-white to off white interior, and a relatively smooth surface texture.
+Excreta (EXCR)
+Excrement from any animal including mammals, birds and insects.
+▲ Important: Wear gloves and a mask to handle any samples that you suspect may
+contain excreta.
+Canadian Grain Commission
+Official Grain Grading Guide 18-15 August 1, 2023
+Lentils
+Extraneous material
+Can be defined as glass, metal, wood, plastic or any other material not already defined in
+the Official Grain Grading Guide.
+Fertilizer pellets (FERT PLTS)
+Fertilizer pellets are a manufactured plant nutrient product used by producers in the
+production of grain. They are typically small, round or irregular shaped and usually
+white, grey, brown, pink or reddish in colour.
+Procedures
+ Handpick any fertilizer pellets and determine the concentration basis the net working
+sample.
+ Fertilizer pellets are assessed as stones when the concentration does not exceed 1.0%
+of the net sample weight.
+ Samples containing fertilizer pellets in excess of 1.0% of the net sample weight are
+graded Lentils, Held IP Suspect Contaminated Grain.
+Fireburnt (FBNT)
+Fireburnt seeds are seeds charred or scorched by fire. A cross-section of a fireburnt seed
+resembles charcoal with numerous air holes. The air holes result in a low weight seed
+which crumbles easily under pressure.
+Procedure
+Samples of lentil containing any fireburnt seeds are graded Lentil, Sample Canada
+Account Fireburnt.
+Foreign material (FM)
+Foreign material includes anything that is not a lentil or part of a lentil.
+Frost damage (FR)
+Frost damage is normally indicated by a combination of wrinkling and close adherence of
+the seed coat to the cotyledon. The seed coat may be translucent in appearance, and the
+cotyledons are brittle in texture. Frost damage is included in the tolerance for Other
+Damage.
+Procedures
+1. Handpick all frost-damaged lentils.
+2. Cut suspect frost-damaged lentils. Frost-damaged seeds are brittle when cut.
+Canadian Grain Commission
+Official Grain Grading Guide 18-16 August 1, 2023
+Lentils
+Heated (HTD)
+Heated lentils are usually dark tan to black in appearance.
+If sample contains . . . Then the grading factor is . . .
+Lentils with tan-coloured cotyledons and a
+distinct heated odour
+Heated
+Lentils with tan-coloured cotyledons and no
+odour
+Damage
+Procedures
+1. Handpick suspect heated lentils.
+2. Cut suspect seeds to expose the cotyledons. Heated lentils have tan-coloured
+cotyledons.
+3. Heated seeds of other grains are included in the tolerance for Heated.
+Insect parts (I PARTS)
+Insect parts refers to whole or pieces of insects such as grasshoppers, lady bugs and other
+insects that remain in the sample after cleaning or processing.
+If pulse crops come into contact with insects during the harvesting process, it may result
+in seed staining and earth adhering to the seed and may result in samples having an
+objectionable odour. Samples containing staining of this nature will be considered to be
+earth tagged and graded according to colour definitions. Samples having a distinct
+objectionable odour not associated with the quality of the grain will be graded Type of
+Grain Sample Account Odour.
+Odour (ODOR)
+There is no numeric tolerance for odour. Consider
+ The basic quality of the sample
+ The type and degree of the odour
+ The presence of visible residue causing the odour
+If odour is the grade determinant
+and there is . . . Then the grade is . . .
+An excessive objectionable odour not associated
+with the quality of the grain,
+but not heated or fireburnt
+Lentils, Sample Canada Account Odour
+An excessive heated odour Lentils, Sample Canada Account Heated
+An excessive fireburnt odour Lentils, Sample Canada Account Fireburnt
+Other damage (ODMG)
+Other damage is any damage other than heated, or peeled, split and broken.
+See Damage.
+Canadian Grain Commission
+Official Grain Grading Guide 18-17 August 1, 2023
+Lentils
+Peeled, split and broken (PLDSPLTBKN)
+Peeled, split and broken includes lentils which are otherwise sound but which are less
+than three-quarters of whole seeds or where less than one-half of the seed coat is intact.
+Lentils with cracked or clipped seed coats are considered sound when the cotyledons are
+firmly held together.
+Rime (RIME)
+Rime is the adhered lining of the seed pod. It is included in the general tolerance for
+Damage.
+If the rime . . . Then the grading is . . .
+Completely and densely covers the
+lentils
+Damaged
+Is sparse enough to expose the
+soundness of the lentil
+Sound—the rime is considered
+in the general appearance of the sample
+Sclerotinia sclerotiorum (SCL)
+Sclerotinia sclerotiorum is a fungus producing hard masses of fungal tissue, called
+sclerotia. The sclerotia vary in size and shape, have a course surface texture, vary in
+exterior color from dark black to gray to white and have a pure white interior.
+Split
+See Peeled, split and broken.
+Sprouted (SPTD)
+Lentils are considered sprouted when the seed coat splits and the primary sprout emerges
+from between the cotyledons or the primary sprout has been broken off but there is clear
+evidence of sprouting. Sprouted is considered in the tolerance for Other Damage.
+Stained (STND)
+Stained lentils includes (only applies to Lentils, other than Red)
+ Mottled seeds—seeds with a significant number of distinct spots on the seed coat
+ Water spot—seeds with distinct brown discolourations on the seed coat
+ Ascochyta—seeds with dark-coloured lesions on the seed coat. Seeds with white
+fungal growth are also considered as damaged. See Ascochyta.
+ Blue-black—seeds of green lentils with significant blue-black discolouration of the
+seed coat. Seeds of varieties of lentils with dark-green speckled or coloured seed
+coats are considered as Contrasting colours.
+Procedure
+Refer to digitally produced colour prints of stained lentils as a grading guide
+Canadian Grain Commission
+Official Grain Grading Guide 18-18 August 1, 2023
+Lentils
+Stones (STNS)
+Stones are hard shale, coal, hard earth pellets, and any other nontoxic materials of similar
+consistency. Fertilizer pellets are assessed as stones when constituting 1.0% or less of the
+net sample weight. (See Fertilizer pellets for specific procedures to be followed when
+samples contain fertilizer pellets.)
+Procedures
+1. Handpick stones from a representative portion of the cleaned sample.
+2. Determine stone concentration in the net sample.
+ Samples of grain grown in western Canada containing stones in excess of “basic
+grade” tolerances, up to 2.5% are graded Lentils, Rejected “basic grade” Account
+Stones. The “basic grade” refers to a grade established in the Canada Grain
+Regulations (grades listed in the first column in grade determinant tables) that would
+have been assigned to the sample if it contained no stones.
+ Samples of grain grown in eastern Canada containing stones in excess of grade
+tolerances are degraded to lower grades. Samples containing stones in excess of the
+tolerance of the lowest grade established by regulation up to 2.5% are graded Lentils,
+Sample Canada Account Stones.
+ Samples of western and eastern Canadian grain containing more than 2.5% stones is
+graded Lentils, Sample Salvage.
+Canadian Grain Commission
+Official Grain Grading Guide 18-19 August 1, 2023
+Lentils
+Examples: Western Canada
+Excerpt from grade determinant tables for
+Lentils, Canada Red
+Grade name
+Stones
+%
+No. 1 Canada Red 0.1
+No. 2 Canada Red 0.2
+Extra No. 3 Canada Red 0.2
+No. 3 Canada Red 0.2
+Basic grade:......................... Lentils, No. 1 Canada Red
+If the above sample
+contained Grade in western Canada
+0.2% stones Lentils, Rejected No. 1 Canada Red Account Stones
+1.0% stones Lentils, Rejected No. 1 Canada Red Account Stones
+3.0% stones Lentils, Sample Salvage
+Examples: Eastern Canada
+Excerpt from grade determinant tables for
+Lentils, Canada Red
+Grade name
+Stones
+%
+No. 1 Canada Red 0.1
+No. 2 Canada Red 0.2
+Extra No. 3 Canada Red 0.2
+No. 3 Canada Red 0.2
+Basic grade:......................... Lentils, No. 1 Canada Red
+If the above sample
+contained Grade in eastern Canada
+0.2% stones Lentils, No. 2 Canada Red
+1.0% stones Lentils, Sample Canada Red Account Stones
+3.0% stones Lentils, Sample Salvage
+Canadian Grain Commission
+Official Grain Grading Guide 18-20 August 1, 2023
+Lentils
+Treated seed and other chemical substances
+Treated seed
+Treated seed is grain that has been adulterated with an agricultural chemical for
+agronomic purposes. The types of agricultural chemicals used to treat seed include
+pesticides, fungicides and inoculants. These seed dressings contain a dye to render the
+treated seed visually conspicuous. The colour of the dye varies depending upon the type
+of treatment and the type of grain. The current Canadian colour standard for pesticide and
+fungicide seed treatments for cereal (including corn) is red or pink. The colour standard
+for pesticide and fungicide seed treatments for canola is blue; however, green has also
+been used. Pulse crop (including soybeans) pesticide and fungicide seed treatments are
+typically blue or green. The coatings or stains may appear greasy or powdery and the
+surface area covered may range from tiny flecks to complete coverage.
+Other chemical substances
+Other chemical substances refers to any chemical residues either adhering to the kernel or
+remaining in the sample and to samples having a chemical odour of any kind.
+▲ Important: Wear gloves and a mask to handle any samples that you suspect may
+contain contaminated grain.
+Procedures
+If a sample is suspected of being coated with a pesticide, desiccant, inoculant or if the
+sample contains evidence of any foreign chemical substance other than fertilizer pellets,
+the sample shall be graded Lentils, Held IP Suspect Contaminated Grain.
+Variety (VAR)
+Lentil varieties may have a wide range of seed coat colours, including green, red,
+speckled green, black and tan. The cotyledon colour may be red, yellow or green. Lentils
+are designated into two classes: Lentils, Red and Lentils, other than Red. The method of
+determining the class of a lentil is determined by the cotyledon colour.
+There are a number of combinations of seed coat colours and cotyledon colours. This
+includes a red lentil variety with a green seed coat.
+Procedure
+If you are unsure of the cotyledon colour or suspect it is different than anticipated,
+remove the seed coat from a small portion of the sample to determine the cotyledon
+colour. Use a barley pearler to assist in removing the seed coat and determine the
+cotyledon colour
+Note: On written request, the lentil variety forms part of the grade name, for example,
+No. 1 Canada, Laird.
+▲ Important: State “Varietal purity not guaranteed” in the remarks section of grading
+certificates issued using a varietal name.
+Canadian Grain Commission
+Official Grain Grading Guide 18-21 August 1, 2023
+Lentils
+Wrinkled (WRKL)
+Wrinkled seeds are characterized by a seed surface that has sharp ridges and pronounced
+depressions that could also be described as seed coat folds and indents. Wrinkles may be
+evident only on one side of the lentil.
+Lentils that only have dimpled seed coat or folds restricted only to the outside ring of the
+seed are considered sound.
+Note: Wrinkled only applies to red lentils
+Reference the Red lentil wrinkled guide on the web version to assist in the determination
+of wrinkled seeds. Industry members may contact the Canadian Grain Commission at 1-
+800-853-6705 or QAStandards-NormesAQ@grainscanada.gc.ca to request a copy of this
+guide.
+Canadian Grain Commission
+Official Grain Grading Guide 18-22 August 1, 2023
+Lentils
+Primary and export grade determinants tables
+Lentils, Canada, other than Red (CAN)
+Standard of quality Damage
+Grade name Variety Degree of soundness Contrasting colours
+Stained
+%
+Heated
+%
+Peeled, split
+and broken
+%
+Other damage
+%
+Total
+%
+No. 1 Canada Any variety of lentils registered
+under the Seeds Act
+Uniform size, good natural
+colour
+0.2 1 0.2 2.0 1.0 2.0
+No. 2 Canada Any variety of lentils registered
+under the Seeds Act
+Uniform size, reasonably
+good natural colour
+0.5 4 0.5 3.5 2.0 3.5
+Extra No. 3
+Canada
+Any variety of lentils registered
+under the Seeds Act
+Uniform size, fair colour 2.0 7 0.5 5.0 5.0 5.0
+No. 3 Canada Any variety of lentils Poor colour 3.0 No limit 1.0 10.0 10.0 10.0
+Grade, if No. 3
+specs not met
+Lentils, Sample Canada
+Account Contrasting
+Colours
+Lentils,
+Sample
+Canada
+Account
+Heated
+Lentils, Sample
+Canada Account
+Damaged
+Lentils, Sample
+Canada Account
+Damaged
+Lentils, Sample Canada
+Account Damaged
+Foreign material
+Grade name
+Ergot
+%
+Excreta
+%
+Insect parts
+%
+Sclerotinia
+%
+Stones
+%
+Other foreign material
+%
+Total
+%
+No. 1 Canada 0.05 0.01 0.02 0.05 0.1 0.2 0.2
+No. 2 Canada 0.05 0.01 0.02 0.05 0.2 0.5 0.5
+Extra No. 3 Canada 0.05 0.01 0.02 0.05 0.2 0.5 0.5
+No. 3 Canada 0.05 0.01 0.02 0.05 0.2 1.0 1.0
+Grade, if No. 3
+specs not met
+Lentils, Sample
+Canada Account
+Ergot
+Lentils, Sample
+Canada Account
+Excreta
+Lentils, Sample
+Canada Account
+Admixture
+Lentils, Sample
+Canada Account
+Admixture
+2.5% or less— West - Lentils, Rejected (grade)
+Account Stones, or East - Lentils, Sample Canada
+Account Stones
+Over 2.5%—Lentils, Sample Salvage
+Lentils, Sample Canada
+Account Admixture
+Lentils, Sample Canada
+Account Admixture
+Note: Upon written request, the variety name will be added to the grade name and the statement “Varietal purity not guaranteed” shown in the remarks section of any certificate issued.
+Canadian Grain Commission
+Official Grain Grading Guide 18-23 August 1, 2023
+Lentils
+Lentils, Canada Red (CAN)
+Standard of quality
+Contrasting
+classes
+%
+Damage
+Wrinkled
+%
+Total damage
+including
+wrinkled
+Grade name Variety %
+Degree of
+soundness
+Colour
+Heated
+%
+Peeled, split
+and broken
+%
+Other damage
+%
+Total
+%
+Copper
+%
+Total bleached
+including
+copper
+%
+No. 1 Canada
+Any variety of lentils
+registered under the
+Seeds Act
+Uniform size,
+good natural
+colour
+1 3 0.2 0.2 2.0 1.0 2.0 2.0 4.0
+No. 2 Canada
+Any variety of lentils
+registered under the
+Seeds Act
+Uniform size,
+reasonably
+good natural
+colour
+3 10 0.5 0.5 3.5 2.0 3.5 5.0 8.0
+Extra No. 3
+Canada
+Any variety of lentils
+registered under the
+Seeds Act
+Uniform size,
+fair colour 10 25 2.0 0.5 5.0 5.0 5.0 N/A N/A
+No. 3 Canada Any variety of lentils Poor colour No limit No limit 3.0 1.0 10.0 10.0 10.0 N/A N/A
+Grade, if No. 3
+specs not met
+Lentils, Sample
+Canada Red
+Account
+Contrasting
+Colours
+Lentils, Sample
+Canada Red
+Account Heated
+Lentils, Sample
+Canada Red
+Account
+Damaged
+Lentils, Sample
+Canada Red
+Account Damaged
+Lentils,
+Sample
+Canada Red
+Account
+Damaged
+Foreign material
+Grade name
+Ergot
+%
+Excreta
+%
+Insect parts
+%
+Sclerotinia
+%
+Stones
+%
+Other foreign material
+%
+Total
+%
+No. 1 Canada 0.05 0.01 0.02 0.05 0.1 0.2 0.2
+No. 2 Canada 0.05 0.01 0.02 0.05 0.2 0.5 0.5
+Extra No. 3 Canada 0.05 0.01 0.02 0.05 0.2 0.5 0.5
+No. 3 Canada 0.05 0.01 0.02 0.05 0.2 1.0 1.0
+Grade, if No. 3
+specs not met
+Lentils, Sample
+Canada Red
+Account Ergot
+Lentils, Sample
+Canada Red
+Account Excreta
+Lentils, Sample
+Canada Red
+Account Admixture
+Lentils, Sample
+Canada Red
+Account Admixture
+2.5% or less— West - Lentils, Rejected (grade) Account
+Stones, or East - Lentils, Sample Canada Red Account
+StonesOver 2.5%—Lentils, Sample Salvage
+Lentils, Sample Canada
+Red Account Admixture
+Lentils, Sample
+Canada Red
+Account Admixture
+Note: Upon written request, the variety name will be added to the grade name and the statement “Varietal purity not guaranteed” shown in the remarks section of any certificate issued.
+Canadian Grain Commission
+Official Grain Grading Guide 18-24 August 1, 2023
+Lentils
+Export shipments
+Export shipments can be commercially clean or not commercially clean.
+Commercially clean (CCLN)
+Export shipments are considered commercially clean when they contain 0.2% or less by
+weight of dockage material. No dockage is reported.
+Not commercially clean (NCC)
+Export shipments that do not meet the standards for commercial cleanliness are referred
+to as not commercially clean. Such shipments are allowed only with the permission of the
+CGC.
+For samples representing not commercially clean shipments approved by the CGC for
+shipment from terminal elevators, dockage is reported to the nearest 0.1%.
+A deduction of up to 0.2% is applied to take into account the buildup of attritional
+material for direct exports only.
+Grading
+Lentils on export are graded in accordance with the primary and export grade
+determinants tables.
+Page 1 of 20
+LENTILS in South Australia & Victoria
+INTRODUCTION
+Lentils (Lens culinaris) are an established, high value pulse crop in South Australia and Victoria. They are a
+winter growing pulse crop widely grown throughout the Mediterranean , southern Asia and the Americas .
+Australia ’s lentil industry has benefited from the release of better adapted lentil varieties, sustained high grain
+prices and grower confidence in crop management. Lentils command a premium price compared to other pulse
+crops such as peas and beans, with many world markets having a preference for lentils as a human food.
+Although lentil prices are usually higher than most other pulses, they can be volatile due to fluctuating
+Australian and world production and world demand. One disadvantage with lentils is the significant price drop to
+growers if livestock feed market prices become necessary to under-pin the food market.
+Description
+Lentil plants are erect in the early stages of growth but may lodge late in spring, particularly if well grown,
+despite their relative short height. Its many stems originate from near the ground. Leaves are very similar to
+those of vetches and the two can be confused, especially in the early growth stages.
+Lentils flower profusely over a short period and set many pods which contain one or two seeds. Because of
+their indeterminate growth habit it is possible to find flowers, immature pods and mature pods on a plant at the
+same time.
+Seeds are small in comparison with other pulses and are flattened into a characteristic shape similar to a
+camera lens.
+GROWING REQUIREMENTS
+Lentils are best suited to areas receiving between 350 and 600 mm of annual rainfall. In drier or colder areas,
+lentils may grow too short to be harvested efficiently. Lentils are particularly sensitive to waterlogging. Spring
+sowing may be an option in some higher rainfall areas with heavier soils.
+Page 2 of 20
+Soils
+Lentils are suited to well drained, level, loam and clay loam soils of good fertility. They prefer the better deeper
+wheat growing soils with higher water holding capacity. Avoid soils which are acidic (pH<6.0 in water) or highly
+alkaline (pH>9.0 in water). Lentils perform poorly on sandy acidic soils.
+They are well suited to the alkaline, self -mulching, grey clays (eg the Wimmera). They also grow successfully
+on loamy sands in the southern Mallee. Acid soils delay nodulation and reduce yields. Effective drainage is
+essential. Lentils can grow on heavy clays to loamy sand and cope with low fertility, but they are very
+susceptible to waterlogging, salinity and soils with high boron.
+Boron toxic or sodic subsoils can cause plant death and severely limit lentil yields if they occur within the root
+zone, and can cause major yield variation within a paddock.
+Paddock Selection
+Check list for lentil paddock selection:
+Is the rainfall greater than 350 mm/year? (Plus good sub-soil moisture retention) Yes
+If the rainfall >550mm, is spring sowing possible? Yes
+Is the soil heavy and deep enough to hold sufficient water to finish the season? Yes
+Is it a friable soil that does not set excessively hard on surface? Yes
+Is soil pH between 6.5 and 9.0 (in water)? Yes
+Is the soil free draining (ie no waterlogging)? Yes
+Is the soil free draining (ie no waterlogging)? Yes
+Is the paddock flat and can it be rolled for harvesting? (free of sticks, stones and undulations) Yes
+Is the paddock relatively free of problem weeds? (medics, Bifora, Bedstraw , Wild Radish, vetch,
+tares, self-sown pulses like dun peas, herbicide resistant Ryegrass in particular)
+Yes
+Has the maximum plant-back period after herbicides been satisfied? (eg sulphonylureas, Lontrel
+®, triazines and imidazolinones)
+Yes
+Will excessive stubble clumps be removed? Yes
+Consideration of likely broad-leaf weeds is essential. Lentils are poor competitors, but a wider range of
+registered herbicides are becoming available. Weeds such as vetches, tares, Bifora , medics and self-sown
+peas and beans are often more difficult to be effectively controlled in lentils.
+Special attention needs to be paid to stopping seed set of broad-leafed weeds in the years prior to a lentil crop,
+or choosing paddocks with low broad-leafed weed burdens.
+Paddocks with high levels of herbicide resistant Ryegrass should be avoided when choosing paddocks to grow
+lentils because of the poor relative competitiveness of lentils. However, because lentils are short in height, there
+is an opportunity for weed wiping to prevent the taller weeds from setting seed. Crop topping to prevent weed
+seed set can also be effective, but be aware of its limitations and its timing needs. Crop topping lentils too early
+can cause quality problems with premature ripening. Lentils are later maturing than field peas, and can be
+indeterminate in late seasons, hence the weeds may need topping before the crop is ready. Lentil paddocks
+can be variable in their ripening across soil types in the paddock, and in particular in wheel tracks.
+Because lentil plants are short (15 to 80 cm) and must be harvested at ground level, choose flat paddocks free
+of surface stones or sticks which might damage harvesting machinery, and contaminate the seed sample. Soil
+surface rolling is often essential to aid efficient harvesting.
+Lentils are extremely sensitive to some residual herbicides, eg sulphonylurea herbicides (eg Ally ® , Logran ®,
+Glean ® and Amber Post). Ensure that maximum plant-back periods on the label are observed.
+Page 3 of 20
+Be aware of herbicide residues and plant-back requirements in the rotation.
+For more detailed information on ‘Herbicide residues and rotation planning' click here for herbicide residual
+brochure, or for GRDC 2007 brochure ‘after the drought’ (including herbicide residues)
+Lentils are also sensitive to many post-sow pre-emergent herbicides. Ensure that greater than 5cm sowing
+depth is achieved, the correct rate for the soil type is applied, and the correct soil moisture conditions at
+application exist. The soil surface needs to be level to maximise safety, and avoid the herbicide washing into
+the furrows left by press wheels with heavy rain.
+PLACE IN ROTATIONS
+Well nodulated lentils fix their own nitrogen. They do not input as much nitrogen into the soil through fixation as
+faba bean, field pea or lupin and are similar to chickpea in that regard. Grass free lentil crops are a disease
+break for cereal crops. Lentil crops are susceptible to some of the same soil-borne diseases as other pulses.
+Plan a crop sequence which considers disease, weed control, herbicide residues and tillage practices which
+might affect ease of harvest.
+Lentil plants are poor weed competitors but there are weed control options available. Do not sow them into
+former vetch paddocks to avoid seed contamination at harvest. Other pulses are easily cleaned from lentil
+seed. Cereals may be the cause of admixtures but this is less likely because herbicide management of self
+sown cereals is easier in lentil crops.
+Lentils are particularly sensitive to clopyralid and sulfonylurea herbicides. Not all labels include lentils in the
+plant back details, so extra caution and advice from the manufacturer is recommended after using these
+herbicides.
+VARIETIES
+Types
+There are different types of lentils based on the size and internal colour of seeds. Only two types are currently
+grown.
+Red lentils , sometimes known as small or Persian lentils, are the most commonly grown. They are sold split
+for cooking (Masur dhal). The name red lentil is derived from the red kernel (cotyledon) colour which is exposed
+when split and the seed coat removed. The seed coat varies from light grey, through brown, to black, and may
+be speckled. Seed size is generally between 4 and 6 mm in diameter.
+Green lentils , also known as large or Chilean lentils, are used whole for cooking. The seed coat is green to
+brown and the internal colour of the seed (cotyledons) is yellow. Seed size generally varies between 4.5 to 8
+mm in diameter.
+Niche varieties, for restaurant and specialist uses are being developed, and over the next few years locally
+adapted varieties of these types may be grown in small quantities under contract. These niche types being
+developed include Spanish brown types, French green (verde) types, black seeded (‘beluga’ ) types and zero
+tannin types. Local and export market niches exist or need to be developed.
+Variety attributes and yields
+The most widely grown red lentil variety is Nugget, but Digger, Aldinga and Northfield are also grown for market
+or adaptation reasons. Be aware of the necessity to market on a variety basis and variety segregation occurs.
+Price premiums (eg for Northfield, Aldinga ) and discounts (eg Aldinga) have sometimes applied to specific
+Page 4 of 20
+varieties. Nipper, a new red lentil variety with ascochyta and Botrytis Grey Mould resistance will become
+available in 2008.
+Matilda is currently the only preferred green lentil variety. Boomer, a new green lentil with improved seed size
+and disease resistance will become available in 2008. Tiara, a long season green lentil with very large seed
+size will become available for spring sowings in high rainfall areas in 2008.
+For latest SARDI lentil variety sowing guide click here
+For descriptions on varieties for sowing in Victoria click DPI sowing guide 2007 update and for 2006 lentil guide
+click here
+SOWING
+Dry sowing can be used successfully in lentils, providing problem weeds like medic are not going to be an
+issue.
+Lentils are well suited to no-till, reduced tillage and stubble retention systems if sown with the right equipment.
+Sow into friable soil ensuring good seed-to-soil contact. Direct drilling is often possible following a cereal crop.
+The smaller seed of lentils when sown at reasonable depth helps ensure good seed-to-soil contact and
+emergence.
+Seed quality
+High quality seed is vital. Lentil seed, like other pulse seeds is susceptible to mechanical damage during
+harvest. Split seed coats, fractured or broken seeds reduce the germination percentage. Fungal infection of
+seed can also cause staining which will significantly reduce the value of seed at harvest.
+Check the current seed analysis certificate for germination percentage and purity before purchase. Legislation
+requires that only the minimum germination test must be supplied on the label with certified seed. Be sure to
+ask for the seed analysis certificate for the seed lot being purchased.
+Ascochyta and botrytis grey mould are seed-borne, and can reduce germination and yield. Do not keep seed
+from severely diseased crops. Have seed tested for its disease status. Avoid using seed with greater than 2%
+ascochyta infection.
+Lentils can be affected by a number of seed-borne virus diseases, including Cucumber Mosaic Virus (CMV)
+and Alfalfa Mosaic Virus (AMV). If possible, source seed which have tested free of viruses.
+For information on disease and health testing of seed, click here
+Seed inoculation and treatment
+Lentils require the same rhizobium as field peas (Group E). Inoculation of lentil seed may not be required on the
+grey clays of the Wimmera if the paddock has previously grown inoculated field pea, faba bean or lentil crops
+which were well nodulated. The same may be true of some other soil types. If uncertain about rotation history
+and practice, inoculate and be sure.
+Fungal seed dressing can improve seed emergence, especially in wet winters. If using inoculum and seed
+dressing, apply the seed dressing first and then inoculate immediately before seeding. Do not mix inoculants
+and seed dressing together unless the inoculant’s label specifies compatibility. New granular and other forms of
+inoculum becoming available may assist in rhizobial survival, particularly in acid soils or when the pulse is sown
+dry.
+Page 5 of 20
+For information on assessing nodulation click here.
+Paddock preparation
+Adequate weed control measures must be taken the previous spring and before sowing, particularly with the
+problem weeds. Sufficient moisture and a level soil surface must be present at application for some soil active
+broadleaf herbicides to be fully effective and to avoid crop damage.
+Sow lentil seed into a friable soil and in a manner that ensures good seed-to-soil contact. The retention of
+adequate plant residue on the surface is important to protect the soil from erosion both during growth and after
+harvest. On sloping ground, post emergent rolling may be required to reduce the risk of water erosion.
+Excessively large clumps of stubble must be removed otherwise they will cause seed placement and harvesting
+difficulties. The surface retention of cereal stubble does not affect lentil germination or growth, and can improve
+establishment on hard setting, surface crusting soils.
+Where soils are below a pH of 6.0 in water, lime applications should be considered before growing lentils.
+Sowing rate
+Use densities of approximately 100 - 120 plants/m 2
+The sowing rate required for a variety will depend on the germination percentage of the seed and its seed
+weight. Use the formula:
+Seeding rate (kg/ha) = Plant density (plants/m 2
+) x 100 seed wt (g) x 10 ÷ Germination percentage
+The number of seeds that emerge from the ground is often less than the viable seeds sown due to non vigorous
+seedlings, disease, herbicide damage or poor soil structure. Based on previous experience this may
+necessitate an increase in sowing rate.
+Sowing depth
+Sow at a depth between 5 and 10cm. Sowing at this depth helps to avoid herbicide damage from pre-emergent
+herbicides. Lentils emerge faster than other pulses, but growth is slow in winter. If germination coincides with
+soil temperatures below 5 ° C, complete emergence may take 30 days.
+Sowing time
+Time of sowing is critical for lentil disease control, best yields and frost avoidance.
+For information on sowing dates in Victoria see 2006 lentil guide click here.
+For information on ‘Dry sowing of pulses’ click here.
+Page 6 of 20
+Rolling
+This is a management practice carried out post sowing and can be done from pre-emergent to the 4-5 leaf
+stage of the crop. It is best done with a rubber tyred roller, when soil is moist but not too wet or dry. Its purpose
+is to flatten any ridges caused by sowing and press any rocks into the soil leaving a flat bed to allow the header
+comb to pick up the short crop at harvest. This reduces harvest losses, harvester wear and contamination in the
+seed sample.
+If the soil is prone to hard setting, crusting or erosion on sandy or sloping country, rolling may have to be
+delayed until the crop has emerged. The safest time to roll lentils post emergent is when they are at the (3-5
+leaf) stage. Avoid rolling lentils when plants are just starting to emerge as emerging shoots can be broken off.
+Rolling lentil crops after emergence should be done under warmer conditions when the plants are limp, and not
+brittle from cold or frosty conditions. Choose an afternoon or a warmer day to minimise any crop damage. Avoid
+rolling two weeks before or after applying a post-emergent herbicide. Rolling a crop affected by leaf disease
+may increase the spread of disease within the crop.
+NUTRITION
+Fertilisers
+The crop should be self sufficient for nitrogen (see seed inoculation). Rates of 10-20 kg/ha of "starter" nitrogen
+may be useful on slightly acid soils.
+Phosphorus removal is about 4.2 kg per tonne of grain. An application of 50 kg of single superphosphate per
+hectare for each tonne of grain of a target yield is required to maintain soil P. Using superphosphate also
+ensures adequate sulphur for the crop.
+Lentils may respond to zinc and molybdenum in soils deficient in these trace elements. Use tissue testing kits
+available from commercial laboratories to monitor the availability of trace elements.
+Crop with Confidence, Rural Solutions SA http://www.ruralsolutions.sa.gov.au
+WEED MANAGEMENT
+Good weed control is essential because lentils grow slowly during winter and are poor competitors with weeds.
+Avoid sowing lentils in paddocks with a history of severe broad-leafed weed problems. Vetches, tares, medics,
+clovers, Wild Radish, Bedstraw, Bifora and self-sown pulses are particularly hard to control. Preventing seed
+set of broad-leafed weeds in the year prior to growing lentils is important.
+It is essential to plan your weed control strategy before sowing. Delaying sowing is an option in most areas
+except the lower rainfall areas. This can enable several weed kills before sowing. The application of preemergent herbicides is also a useful strategy.
+Most grass weeds can be controlled either pre-emergent or post-emergent.
+Diflufenican products and flumetsulam are registered for post emergent broadleafed weed control in lentils.
+Some caution is required, particularly with some varieties being more sensitive.
+Page 7 of 20
+For South Australia, refer to latest Pulse weed spraying chart available from Rural Solutions SA Roseworthy
+Information Centre are: Freecall: 1800 356 446 www.ruralsolutions.sa.gov.au.
+Avoiding herbicide damage
+Under adverse conditions, most post sowing, pre emergent herbicides are capable of causing damage in lentils.
+Even post emergent applications can also cause crop damage in some circumstances. In most cases damage
+can be attributed to the products solubility and:
+ Sowing too shallow
+ Applying the herbicides to dry soils followed by heavy rainfall
+ Rate too high for the soil type
+ Variety susceptibility differences
+ Uneven soil surface
+ Washing of herbicide into press wheel furrows
+To reduce the risks of herbicide damage when using metribuzin or other products PSPE on lentils:
+ Sow at 5cm or deeper
+ Apply the herbicides to a level soil surface (eg prickle chaining)
+ Appreciate that rolling after press wheels may not do enough to level out the furrow
+ Avoid applying these herbicides post sowing to dry soils
+ Choose the right rate for your soil type (lighter soils require lower rates than heavier soils – seek local advice)
+ Check variety susceptibilities
+Crop topping
+Lentils can be successfully crop topped with Gramoxone ® to control seed set of annual Ryegrass, however
+care is needed as timing is critical. Ideally, lentils should be crop topped as late as practical to minimise yield
+reductions, but the growth stage of the grass often determines the timing. They cannot be crop topped too early
+because grain quality can be affected with green kernels arising from premature ripening. Lentil variety choice
+based on maturity time can therefore be important. The lentils ideally should have finished flowering and have
+well formed seeds in the pods before commencing spraying. The lentils should be starting to turn yellow/brown
+at this time. Beware of coloured foam marker dyes staining lentil seed through the pods.
+Weed wiping
+Weed wiping is being successfully used in lentils to prevent weed seed set of herbicide resistant Ryegrass and
+other tall weeds in the crop. Crop height needs to be a consideration in lentil variety choice.
+Page 8 of 20
+DISEASE MANGEMENT
+Ascochyta blight (Ascochyta lentis)
+Ascochyta blight is the most serious disease of lentils in Australia . Most commerical varieties are unlikely to
+have significant yield losses due to ascochyta blight. However, ascochyta blight does infect lentil seed, causing
+a discolouration of grain, which will significantly reduce its market value.
+Symptoms of foliar infection
+The disease appears as round whitish lesions with a brown margin On leaves and pods. Black fruiting bodies in
+the lesions identify the problem as disease and not spots caused by herbicide damage. Severe infections cause
+leaf yellowing. Tips of stems wilt, turn brown and die. Pod infection spreads to the seeds which turn purplebrown and shrivel in whole or part.
+Disease Cycle
+Ascochyta blight can be both seed and stubble borne. Wind borne spores from Infected lentil stubbles can blow
+into adjacent paddocks and infect new lentil crops. Infection can occur at any stage of plant growth, but is more
+significant later in the season during late flowering and pod fill. Wet weather favours disease development and
+spreads spores within crops by rain splash. This spreads infection onto new crop growth, including pods.
+Control
+Prevent diseaseby using disease free seed (seed tests are available), and sowing into areas free of infected
+lentil stubble. Fungicidal seed dressings help control seed infection. Destruction of stubble by burning,
+cultivation or grazing helps to minimise disease carry-over between seasons. Delay sowing until early June,
+early sowing increases the exposure time of the crop to the disease. The variety Northfield is the only current
+commercial variety resistant to seed infection by ascochyta. In other varieties Strategic fungicide sprays may
+become a part of management during flowering and pod fill.
+The ascochyta blights of field pea, chick pea and faba bean are specific to those crops and will not cause
+ascochyta blight on lentils.
+Ascochyta infection on pods. Ascochyta lesion on leaf, note small, black pycnidial fruiting
+bodies in the centre of the lesion.
+Botrytis grey mould (Botrytis spp)
+Botrytis grey mould infects lentil seed but more importantly can cause crop devastation in wet years. A dense
+crop, lodging, and rain in late spring provide ideal conditions for the disease.
+Page 9 of 20
+Symptoms of stem and pod rot
+All above ground plant parts can be affected by grey mould (Botrytis fabae and B. cinerea). Lesions on leaves
+and pods are initially dark green, but turn greyish-brown as they age. Grey mould also develops on flowers. If
+the canopy is wet for long periods, the pathogen grows on to the stems, which quickly become covered with a
+fuzzy layer of grey mould. When the weather turns dry, clouds of spores are released into the air when plants
+are disturbed. Severely infected leaves, flowers and pods wilt, and fall to the ground. If wet conditions continue
+the stems become girdled with spreading patches of brown within the crop and dying plants are seen.
+Symptoms of seedling blight
+Seed from severely infected crops is often discoloured and shrivelled. If infected seed is used for planting, plant
+establishment is usually poor, due to low germination and increased seedling blight. Blighted seedlings emerge,
+but are yellow, stunted, and usually die after one or two weeks. If germination takes place under wet conditions,
+mycelium from infected seedlings can grow through the soil to neighbouring plants, leaving patches of blighted
+and dying plants in the field. When grey mould-infected seedlings are pulled up, grey mycelium can often be
+found on the stems just under the soil.
+Disease cycle
+The fungus that causes grey mould is always present to some extent on pulse crop residues, especially
+chickpea and faba bean. Airborne spores are released from old infected crop residues early in the season that
+infect new crops. Grey mould can infect lentils at any time during the growing season, but epidemics generally
+develop late, after the plant canopy has closed. Periods of high humidity in spring favour the rapid development
+of the disease. The fungus may establish a foothold on senesced plant parts, or on tissues damaged by hail,
+wind and machinery. It can also attack healthy plants, and has a broad host-range that includes faba bean,
+vetch, chickpea, field pea, and lucerne,. Flowers and pods are particularly sensitive to grey mould infection,
+reducing pod set and seed quality. After harvest, the fungus survives as mycelium on plant residues, and as
+sclerotia (long-lived survival structures) in the soil.
+Control
+Prevention of seedling blight requires disease free seed. Seed treatment with thiram and thiabendazole
+combined, or thiram will control most, but not all, botrytis infection.
+Follow recommended sowing times and sowing rates for your district. Crop canopy management is a key
+component of controlling botrytis grey mould. Crops with excessive vegetative growth are prone to infection and
+losses due to botrytis infection. Airflow through the crop canopy will reduce humidity and severity of the
+disease.
+Foliar fungicides need to be applied prior to canopy closure to prevent grey mould becoming established in a
+crop. Fungicides should be considered in crops that are at a greater risk from grey mould.
+All lentil cultivars are susceptible to grey mould, but Northfield , Cobber, Matilda and Aldinga are particularly so.
+Susceptibility is enhanced by lush growth that provides a humid microclimate.
+Lentils should not be grown in paddocks recently infected by grey mould in chickpea or lentil, or by chocolate
+spot in faba bean. Grey mould is both seed and stubble borne. Later sowing and reduced seeding rates will
+reduce crop canopy density.
+Page 10 of 20
+Leaves infected with botrytis Botrytis infected stem, note fuzzy layer of grey mould on infected
+tissue
+Lentil disease guide and management summary
+Disease Organism Symptoms Occurrence Hosts Control
+Ascochyta
+blight
+Ascochyta
+lentis
+On leaves, small round
+whitish lesions with brown
+margins. Lesions often
+containing small black
+fruiting bodies of the
+fungus. Lesions can also
+form on stems causing
+premature death. Pod
+infection can ultimately
+result in black
+discolourations on seed.
+Common in all lentil
+growing regions in
+southern Australia . All
+varieties except
+Northfield are at risk of
+seed infection by
+ascochyta blight.
+Damage is most likely
+in wet seasons.
+Lentils – seed,
+stubble and
+self sown
+plants.
+Seed dressings.
+Resistant
+varieties.
+Foliar
+fungicides.
+Crop rotation.
+Avoid early
+sowing.
+Botrytis
+grey mould
+Botrytis
+spp.
+Leaves: White round
+lesions/spots without black
+fruiting bodies as in
+ascochyta blight.
+Stems: Light brown
+sections form on stems that
+are covered with fluffy grey
+mould. Botrytis grey mould
+can cause branches to die
+and cause discoloured and
+shrivelled seed.
+In severe cases large
+brown patches can form in
+the crop.
+Most likely to occur in
+dense, lodged crops
+when there is frequent
+rain late in spring.
+Most
+legumes.
+Seed dressings.
+Low plant
+density.
+Avoid early
+sowing.
+Crop rotation.
+Resistant
+varieties.
+Page 11 of 20
+Viruses
+For information on how to minimize viruses in pulses and control of their transmission by aphids and other
+vectors, click here. For more information on specific viruses, for Bean Leaf Roll Virus (BLRV) click here for
+more information. For Alfalfa Mosaic Virus (AMV), click here . For Cucumber Mosaic Virus (CMV), click here
+For Bean Yellow Mosaic Virus (BYMV), click here
+Disease information
+”Lentil disease management strategy for southern region GRDC” click here
+and for 2007 updated tables, click here.
+For information on ‘Pulse seed treatment and foliar fungicides ’click here
+For the latest information on permits and registrations in pulses visit the Pulse Australia site at
+http://www.pulseaus.com.au or
+http://services.apvma.gov.au/PubcrisWebClient (registrations)
+http://www.apvma.gov.au/permits/permits.shtml (permits)
+For South Australia, refer to latest Field crops disease spraying chart. Available for purchase from Rural
+Solutions SA Roseworthy Information Centre are: Freecall: 1800 356 446 www.ruralsolutions.sa.gov.au.
+Page 12 of 20
+INSECT PESTS
+Establishment pests: Red legged earth mite (RLEM) (Halotydeus destructor) and Blue Oat Mite
+(BOM) (Penthaleus major).
+Damaged leaves have a rasped silvery appearance, turn brown and shrivel. Damage is most severe when cold,
+wet or dry conditions slow seedling growth.
+Strategic prevention may involve foliar spraying in the previous spring. Clean cultivation in autumn and attention
+to weeds on fence lines is also essential. If possible keep a distance from paddocks of the species preferred by
+mites - pulses, pasture legumes, oilseeds and Capeweed.
+Use of a registered, bare earth insecticide post sowing, will protect germinating seedlings when most
+vulnerable. Seed treatments work best when mites are active during germination yet numbers are not too high.
+Monitor young crops weekly. Inspect plants in 0.5 m of crop row at 10 different sites within the crop. Weather
+conditions affect mite activity. If weather is fine estimate the numbers per leaf, if cold and cloudy estimate the
+numbers per 100 cm 2 (10 cm x 10 cm) around the base of the plants. Repeat this at 10 sites within the crop.
+Mite damage is typically greater around the edge of paddocks, where there is higher pressure from mites
+invading from outside the paddock. An average of 50 mites per area warrants spraying.
+Establishment pest: Lucerne Flea (Sminthurus viridis)
+A small, wingless, light green, flea-like insect which jumps when disturbed. Symptoms of damage are a
+"window pane" hole or ragged leaf edges. The host species for flea is similar to that for RLEM. Sub clover and
+lucerne are also preferred hosts. Control of flea is similar to that for RLEM.
+Crops should be monitored regularly, at least weekly, for signs of damage. If Lucerne Flea is suspected, look for
+the presence/absence of damage on 10 plants, repeat at 5 sites. An average of 10 or more holes per leaf may
+warrant control.
+Flowering and podding pest: Native Budworm (Helicoverpa punctigera)
+Native Budworm moths migrate into Victoria from inland Australia in spring. Female moths lay eggs on leaves,
+stems, flowers or pods. Significant damage is caused by large larvae (more than 1cm long) burrowing into pods
+and feeding on developing grain.
+Budworm larvae can be many colours but all have a dark line down the centre of the back and a pale broad
+stripe along each side of the body. The skin appears bumpy. Stiff, short black hairs are usually evident along
+the body.
+Weekly monitoring to detect larvae should begin at flowering. Increase to twice weekly from early podding or
+from when moth activity has peaked. Sweep with a 38 cm net 10 times in at least five different areas of crop.
+Spray when five or more larvae are collected in 10 sweeps. Delay spraying until the majority are about one cm
+long, Spraying too early increases the risk of a second population developing before harvest. Do not delay too
+long. Larger caterpillars require higher rates of insecticide and are the ones which bore into pods.
+Crops that have lodged cannot be swept effectively. In lodged crops, shake half a metre of row vigorously over
+a white tray or Fertiliser bag. Repeat 5-10 times. Control is warranted if an average of one larvae per metre of
+row is detected. For more information click here.
+For information on lesser budworm (Heliothis punctifera), click here
+Page 13 of 20
+Flowering and podding pest: Lucerne Seed Web Moth (Etiella behrii)
+The larvae bore into pods and mature there. When fully fed they exit to pupate in the soil. Controlling larvae is
+difficult as they remain inside the pods and are protected from sprays.
+Management involves controlling the moths before they lay eggs. The slender bodied moth has a distinct beak.
+The wings are grey with a white streak along the front and a yellow band near the base. The wingspan is
+approximately 2 cm. For more detailed information, click either here or else here for a detailed brochure on
+monitoring, flight prediction model and controls, or click here for other information.
+Snails
+“Bash ‘Em, Burn ‘Em, Bait ‘Em: Integrated snail
+management in crops and pastures”. This colour
+manual produced by SARDI contains information about
+snail lifecycle and habits as well as practical guidelines
+on preventing grain contamination, harvester
+modifications and cleaning options. It includes a section
+on the fly biocontrol agent being released in S.A.
+Available from the Roseworthy information centre on 1800 356 446 and costs $20 (GST inclusive) plus $5 postage and handling.
+See also more information
+Guide to the key pests of Pulses click here.
+For south Australia, refer to latest Insect spraying chart field crops and pastures Available for purchase from
+Rural Solutions SA Roseworthy Information Centre are: Freecall: 1800 356 446 www.ruralsolutions.sa.gov.au
+HARVESTING
+Lentils can be challenging at harvest with possible lodging and a relatively low crop height, varying from 15 to
+50 cm, depending on time of sowing, soil, seasonal conditions. Machinery modifications and early harvesting
+have improved the efficiency of harvest now. All except very short crops will show some lodging at maturity, but
+some varieties are more erect than others. Pods may develop at all levels of the crop, and ripening can be
+uneven if the season is extended. Crop topping or desiccation can ensure uniform ripening of the crop.
+Page 14 of 20
+Timing
+Monitor crops regularly when close to harvest. Lentils ripen unevenly and current varieties are short and tend to
+lodge. The seed that develops from the first flowers (those lowest on the plant) will mature before seed from the
+later flowers. Some foliage may still be green when the crop is ready to harvest. Harvest when the lower pods
+have turned pale brown in colour and the seeds rattle in the pods. Seed moisture content of 15% is satisfactory,
+although seed needs to be at 12 or 13% for safe storage.
+Crops that remain upright at maturity are more prone to pod drop during windy conditions, so early harvest is
+essential to capture the yield produced.
+Crop desiccation may assist uniform, quick ripening or dry late infestations of weeds. The desiccant should be
+applied when fifty percent of the crop has turned colour. Harvest before the crop becomes brittle.
+Timing harvest as early as possible is extremely important, and attention to timeliness and efficient harvesting
+is profitable as harvest losses in lentils can be considerable. Losses of more than 800 kg per ha have been
+measured in commercial paddocks. Late rains or severe winds that flatten crops do play a part in harvest and
+quality losses. Appropriate variety selection, paddock choice, having a harvester front that can be set low
+enough to pick up maximum numbers of pods all help.
+Often the difference between a crop that is easy to reap and one that is more difficult is 2 to 5 days (because of
+lodging). This reinforces the importance of reaping lentils as soon as they are ready.
+Harvester settings
+Conventional machinery can be used for harvesting, but it is necessary to cut at ground level to get the crop
+into the comb. Floating or flexible cutter bars are a distinct advantage, and blowers or a vortex reel enable
+lentils to be harvested lower to the ground and ensure good crop feed. Thinner, shorter or lodged crops are
+more challenging, and harvest direction may have to be one-way. An extended cutter bar table and air
+assistance will also be of value in reducing harvest losses. Axial or rotary harvest drums cause much less seed
+damage. Harvesting with an open-front machine (with crop lifters) is possible. Some closed-front machines can
+be used with moderate success if they can harvest low enough and some fingers are removed.
+Direct head at the minimum drum speed. Lentils thresh readily. Try a concave setting fully open at the front,
+and half closed at the back. Lentil seed is heavy compared with stem and leaf trash, so it is safe to use draft to
+remove trash.
+Harvesting for quality
+Seed quality is the ultimate issue as lentil seed is predominantly for human consumption. Buyers of green lentil
+do not want chipped, cracked or de-hulled seeds. The larger seed of the green lentil make them prone to
+mechanical damage. Seed damage and losses during harvest can be minimised by harvesting early morning
+and by a combination of low drum speed and a wide concave clearance.
+To service the human food market it is necessary to produce a quality sample without cracking, staining or
+insect damage. Visual appearance is everything in marketing. Early harvest is important for quality reasons, as
+well as more efficient harvesting and to avoid crop losses.
+Lentils can be delivered at up to 14% moisture content where aeration is possible, aiding early harvest. Lentils
+are ready to harvest when nearly all the pods are brown and dry with seeds rattling within them. At this stage,
+lentil plants in the wheel marks and many lentil stalks may still be green. Timing generally coincides with
+harvesting of barley crops.
+Page 15 of 20
+Harvesting early, when some seeds and pods are still green is preferable to delaying until all seeds are dry.
+This avoids pod drop and shattering of the early pods and excessive lodging, but may necessitate the aeration
+of the harvested grain. The risk of ascochyta spoilage of seed increases with delayed harvest.
+Lentils are often better reapt up and back in the one direction, rather than around the paddock. The “frustration
+factor” of growers harvesting lentils is an issue, but the high value of lentils well justifies spending a little more
+time and effort.
+Windrowing
+Windrowing of lentil crops for uniform ripening and earlier harvest has generally been considered impractical
+because the lentil windrows often lack bulk, are difficult to pick up from the bare ground, and tend to be blown
+around in strong winds when left to dry down. However, some growers have had success in placing wide
+swathes into a bulkier windrow and using a ‘cotton wheel roller’ to compact the windrow. Windrowing has also
+been successful when it is done directly in front of the harvester. This can aid the harvesting of short crops or
+reduce snail contamination in the sample, but does not assist uniform and early crop ripening.
+For more information on ‘Windrowing and desication of pulses’ GRDC Hi-Grain update 2003, click here
+For information on maximising lentil quality at harvest, click here.
+Desiccation
+Chemical desiccation of lentils is sometimes necessary to ensure even maturity for harvest or to ‘brown off’ late
+weed infestations to improve the ease of harvest. To reduce yield and quality loss when desiccating it is best to
+apply desiccants when over 90% of pods are mature.
+Storage and handling
+The moisture content of grain being stored on farm for seed should be no more than 13% to discourage mould
+growth and insect infestation. If the moisture content of harvested grain is too high, aerated storage will prevent
+spoilage. Alternatively moving the grain from one silo to another on a warm dry day can reduce moisture
+content by 1 to 2 percent.
+Lentil seeds are more prone to mechanical damage than most other pulses. Keep handling to a minimum,
+particularly when using screw augers.
+Damage to silo side walls and even collapse can occur when emptying silos with stored lentils. Growers are
+advised to store lentils in field bin type silos only (those with low walls) or only partially fill taller silos. It is also
+advised that lentils are unloaded slowly in smaller amounts than other crops.
+Good grain hygiene is important with lentils. Contaminants such as insects, other grains, animal excreta, rodent
+carcases etc. are undesirable in lentils. Cereal grains are particularly difficult to clean out of lentils so must be
+removed in crop. Harvesters, grain handling equipment and storage bins should be cleaned prior to harvesting
+lentils. Vetch contamination must be minimised.
+Page 16 of 20
+Harvesting for seed
+Select an area as free as possible from diseases, pests and weeds. Ensure that headers, bins, augers and
+other equipment are free of cereal contamination as these grains are hard to remove during cleaning.
+Handling and storage
+Keep handling to a minimum, particularly when using screw augers which tend to grind seed. Lentils are more
+prone to mechanical damage than seeds of field peas, faba beans, lupins and chickpeas.
+The moisture content of stored seed should be no more than 13%. If moisture in the harvested seed is too high,
+aeration in storage will prevent spoilage, particularly during the first two weeks after harvest. Moving the grain
+on a warm, dry day by transferring it from one silo to another is a means of reducing the moisture content by 1-
+2%.
+MARKETING
+Commercial buying and selling arrangements (current as of May 2007)
+Variety Commercial Partner/Licensee Royalty Market restrictions
+Northfield A AFCA Seed None, but PBR so no farmer to farmer
+trading
+Aldinga# AFCA None None
+Cassab# Agracorp* (see note below)/ABB
+grain(exTLC)/Aust Grain Export Pty
+Ltd/PeaCo
+None None now
+Cobber# ABB grain (ex TLC) End Point no longer “closed loop" 2006
+Digger# ABB grain (ex TLC) End Point No longer "closed loop" 2006
+Matilda# ABB grain (ex TLC) End Point No longer "closed loop" 2006
+Nugget# PlantTech Pty Ltd End Point Under contract, multiple buyers
+Nipper# AWB Seeds End Point Under contract, multiple buyers
+Boomer# AWB Seeds End Point Under contract, multiple buyers
+Tiara# AWB Seeds End Point Under contract, multiple buyers
+* NOTE Wimmera Grain Company is the AgraCorp commercial contact in Victoria.
+A Northfield is the only variety listed above to have PBR protection and therefore seed of this variety cannot be
+sold, traded or given away, nor can it be ‘traded over the fence’ without authorisation of the owners or licensee.
+# These varieties are not subject to PBR but have a number of different types of royalty/marketing
+arrangements associated with the growing of these varieties. Farmers choosing to buy a lentil seed should
+check the royalty/marketing arrangements for that variety with the seed agent.
+For more detailed PBR information click here
+For an up to date list of Lentil traders and their contact details visit the Pulse Australia website
+http://www.pulseaus.com.au/crops/lentils This website also has production and price estimates for most
+pulse crops.
+Page 17 of 20
+Prices and markets
+Red lentil prices have ranged from $400 to $550 per tonne. A realistic budgeting price is between $350 to $400
+per tonne delivered, but the product must meet receival standards. Some varieties like Northfield have
+sometimes had a price premium while others like Aldinga have had a price discount. Variety price differences
+can vary from season to season, and are based on supply and demand. Variable costs of production are about
+$160 to $240 per ha depending on the inputs used.
+Australian lentils are exported to over 40 overseas countries including India , Pakistan , Egypt , Spain ,
+Mauritius and France . Turkey has been the major exporter of red lentils, providing a major proportion of world
+supply. Canada , traditionally a green lentil producer, also produces red lentils and is a major competitor in
+world markets. Canada , USA , and New Zealand are the main exporters of green lentils.
+For Australia to expand its market share, growers and processors need to pay particular attention to the
+production of high quality lentils which will compete favourably with our overseas competitors.
+Receival standards
+The national receival standards for lentils are set by the pulse industry by Pulse Australia, and reflect the
+market requirements for a quality food product. Varieties are segregated with only 1% off-type varieties allowed.
+Delivery requires low discolouration or staining of grain seed coat (1% maximum) and lentil kernel (maximum
+1% poor colour), as well as low insect damage and breakages (defectives 3% maximum) and minimal foreign
+material or impurities (3% maximum). Sizing through round and slotted screens may also occur. Failure to
+achieve these receival standards may mean price discounts, re-cleaning or market rejection if severe.
+Maximum
+moisture
+content (%)
+Minimum
+purity (%)
+Maximum
+defective
+plus poor
+colour (%)
+Screen size
+for
+defective
+(mm)
+Poor colour
+maximum
+(%)
+Foreign
+material
+maximum
+in total (%)
+Red lentil
+receival
+standard
+14 97 4 2.00 or
+2.2 slotted
+1 seed coat
+1 kernel
+3
+Green lentil
+receival
+standard
+14 97 4 2.00 slotted 1 seed coat
+1 kernel
+3
+Unmillable
+material
+maximum
+Snail
+maximum
+Insect
+maximum
+Nominated weed seed maximums
+(maximums for each type)
+Red lentil
+receival
+standard
+0.5 (0.3%
+soil)
+1 per 200g 15 per 200g See footnote for weeds and amounts allowable
+Green lentil
+receival
+standard
+0.5 (0.3%
+soil)
+2 per 400g 30 per 400g See footnote for weeds and amounts allowable
+Definitions:
+Defective grains: includes poor coloured grains, broken, damaged and split, shrivelled, distorted, grub eaten,
+sprouted and affected by field mould.
+Poor colour: if cotyledon is distinctly blemished and/or off colour from the characteristic yellow colour of the
+predominate class, including the 1% visible ascochyta.
+Page 18 of 20
+Foreign material: includes unmillable material and all foreign vegetable matter (includes cereals, Wild Oats,
+oilseeds, other legumes and weed seeds not otherwise specified).
+Unmillable material: includes soil, stones, metal and non-vegetable matter .
+Nominated foreign weed examples:
+Type 1 (4 per 200g): three -cornered jack
+Type 2: (nil per 200g): wild garlic, coriander and any other tainting agents.
+Type 3a (1 per 200g in total): Bathurst burr, caltrop.
+Type 3b (2 per 200g total): vetches (tares).
+Type 3c (4 per 200g total): heliotrope.
+Type 4a (10 per 200g total): cut leaf mignonette, melilotus (if no taint ) nightshades, skeleton weed, variegated
+thistle,.
+Type 5 (20 per 200g in total): knapweed, salvation jane
+Type 6 (5 seeds/5 pods total per 200g) medic pods, marshmallow pods, saffron thistle, wild radish pods
+Type 7a (10 seeds per 200g total): other pulses.
+Type 7b (10 seeds per 200g total): cereals, turnip weed, bindweed.
+Type 7c (1 seed in total per 200g): safflower, sunflower.
+Type 8 (100 seeds per 200g): bellvine.
+Small foreign seeds (0.6% by weight): amsinkia, canola, charlock, marshmallow seeds, hedge mustard, etc.
+See pulse receival and export standards at www.pulseaus.com.au/standards/
+FURTHER INFORMATION
+Grain Legume Handbook and its 2006 updates. (The Grain Legume Handbook Committee)
+Carter J, Materne M (1997) Lentil Growers Guide: A guide for the production of lentils (2 nd ed) (Agriculture
+Victoria – Horsham)
+Topcrop Lentil Paddock recording card, click here
+To identify early growth stages in vetch, click here
+Page 19 of 20
+Pulse & Canola - Frost Identification: The back pocket guide (Bulletin 4401) (TOPCROP Australia, Grains
+Research and Development Corporation) Free from some local DPI offices or Ground Cover Direct Free phone
+1800110044 fax 1800009988.
+Wurst M. et al (2002) Winter Pulse Disorders: The ute guide (Primary Industries and Resources SA) For sale
+through some local DPI offices and Ground Cover Direct Free phone 1800110044 fax 1800009988.
+COMPILATION
+Wayne Hawthorne, Pulse Australia, Naracoorte, SA and Wendy Bedggood, DPI Horsham, Vic.
+ACKNOWLEDGMENTS
+Department of Primary Industries
+Michael Materne DPI - Horsham
+Kurt Lindbeck DPI – Horsham
+Primary Industries and Resources SA
+Larn McMurray SARDI-Clare
+John Hannay PIRSA - Nuriootpa
+Pulse Australia
+Wayne Hawthorne Pulse Australia - Naracoorte
+Grains Research and Development Corporation
+A considerable part of the research leading to this publication has been funded by GRDC
+Page 20 of 20
+Disclaimers
+The advice provided in this publication is intended as a source of information only. Always read the label before
+using any of the products mentioned. The State of Victoria and its employees do not guarantee that the
+publication is without flaw of any kind, or is wholly appropriate for your particular purposes and therefore,
+disclaims all liability for any error, loss or other consequence that may arise from you relying on any information
+in this publication. The Department of Primary Industries acknowledges contributions made by private
+enterprise. Acceptance of these contributions however, does not endorse or imply endorsement by the
+Department of any product or service offered by the contributors.
+Use of the information within this publication is at your own risk. The Department of Primary Industries and
+Resources and Rural Solutions SA do not warrant or make any representation regarding the use of the
+information contained herein as regard to correctness, accuracy, reliability, currency or otherwise. The entire
+risk of the implementation of the information/ advice that has been provided to you is assumed by you. The
+Department of Primary Industries and Resources, Rural Solutions SA and our sponsors, expressly disclaim all
+liability or responsibility to any person using this information/ advice.
